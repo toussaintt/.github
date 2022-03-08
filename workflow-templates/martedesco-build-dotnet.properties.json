@@ -1,0 +1,13 @@
+{
+    "name": "martedesco-Build Dotnet Project",
+    "description": "martedesco-Build Dotnet Project starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "C#"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
